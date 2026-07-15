@@ -169,9 +169,9 @@ h1,h2,h3,h4{font-weight:700;line-height:1.16;letter-spacing:-.01em}
 
 /* ===== MEJORA MÓVIL ===== */
 html,body{overflow-x:hidden;max-width:100%}
-*{min-width:0}
-img,video,iframe,svg{max-width:100%;height:auto}
+img,video,iframe{max-width:100%}
 @media(max-width:600px){
+  *{min-width:0}
   .wrap{padding-left:18px;padding-right:18px;grid-template-columns:1fr!important;gap:26px!important}
   section{padding:42px 0}
   .medals{grid-template-columns:1fr!important;gap:12px}
