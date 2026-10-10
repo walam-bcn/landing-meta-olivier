@@ -2,12 +2,13 @@
 
 Todas las URLs usadas en la landing (`index.html`).
 
-## 💳 Pagos (Stripe)
+## 💳 Pagos
 
-| Concepto | Enlace |
-|---|---|
-| **Reserva de plaza (500 €)** | https://buy.stripe.com/eVq4gs2iUfyL8j90hKa7C0e |
-| **Pago completo (1.520 €)** | https://buy.stripe.com/fZu6oAcXy4U7czpfcEa7C0d |
+Pago por **transferencia bancaria** (1.600 €: pago completo, o 500 € de inscripción + 2 pagos de 550 € antes del 25/01/2027). El número de cuenta se facilita por WhatsApp; los botones de inscripción abren WhatsApp con un mensaje ya escrito.
+
+Enlaces de Stripe antiguos (ya no se usan en la landing):
+- Reserva 500 €: https://buy.stripe.com/eVq4gs2iUfyL8j90hKa7C0e
+- Pago completo 1.520 €: https://buy.stripe.com/fZu6oAcXy4U7czpfcEa7C0d
 
 ## 🌐 Landing publicada
 
