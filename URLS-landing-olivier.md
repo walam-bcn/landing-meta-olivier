@@ -33,5 +33,6 @@ Enlaces de Stripe antiguos (ya no se usan en la landing):
 - Inglés: https://walam-bcn.github.io/landing-meta-olivier/index-en.html
 - Francés: https://walam-bcn.github.io/landing-meta-olivier/index-fr.html
 - Alemán: https://walam-bcn.github.io/landing-meta-olivier/index-de.html
+- Italiano: https://walam-bcn.github.io/landing-meta-olivier/index-it.html
 
-Las versiones en francés y alemán enlazan los PDF en inglés (temario, normas y política de cancelación).
+Las versiones en francés, alemán e italiano enlazan los PDF en inglés (temario, normas y política de cancelación).
